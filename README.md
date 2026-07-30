@@ -78,8 +78,3 @@ This project is licensed under the MIT License — feel free to remix and adapt 
 
 - Project: AHuman328
 - AI assistance was used for code understanding, measurements, and review of technical details.
-
-If you'd like, I can also:
-- Add an example folder structure or TODO list in the README
-- Create a CONTRIBUTING.md or CODE_OF_CONDUCT
-- Add setup scripts to streamline dependency installation
